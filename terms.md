@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective Date:** [Today’s Date]
+**Effective Date:** 2025-05-13
 
 Welcome to Sami, an AI-powered TikTok engagement assistant. By using this application, you agree to the following terms:
 
@@ -24,4 +24,4 @@ Welcome to Sami, an AI-powered TikTok engagement assistant. By using this applic
    - We may update these terms at any time. Continued use of Sami means you accept the new terms.
 
 6. **Contact**
-   - For questions, contact [your email or GitHub Issues page].
+   - For questions, contact hazzler+terms@gmail.com.
