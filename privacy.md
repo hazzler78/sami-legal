@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Today’s Date]
+**Effective Date:** 2025-05-13
 
 This Privacy Policy explains how Sami (“we”, “us”, or “our”) collects, uses, and protects your information.
 
@@ -20,4 +20,4 @@ This Privacy Policy explains how Sami (“we”, “us”, or “our”) collect
    - You may revoke Sami’s access to your TikTok account at any time via TikTok’s app settings.
 
 6. **Contact**
-   - For privacy questions, contact [your email or GitHub Issues page].
+   - For privacy questions, contact hazzler+privacy@gmail.com.
